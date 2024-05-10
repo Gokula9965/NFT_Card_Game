@@ -38,5 +38,10 @@ In conclusion, our decentralized NFT card game utilizes blockchain technology to
 
 # SCREENSHOTS
 ![image](https://github.com/Gokula9965/NFT_Card_Game/assets/86424600/d0b61161-3a2e-439b-8149-67d4776e09f4)
+![image](https://github.com/Gokula9965/NFT_Card_Game/assets/86424600/cf009d86-a2d1-4cb5-aaa1-25bffd89921d)
+![image](https://github.com/Gokula9965/NFT_Card_Game/assets/86424600/4fefd60e-cc6a-4a2d-8bd0-6507d03992e8)
+![image](https://github.com/Gokula9965/NFT_Card_Game/assets/86424600/77ad0391-fe82-4f9d-9c0e-ddbecf55e19b)
+![Uploading image.png…]()
+
 
 
