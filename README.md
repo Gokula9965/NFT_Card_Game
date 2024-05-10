@@ -36,5 +36,7 @@ scarcity, and interoperability of in-game assets while fostering a vibrant playe
 
 In conclusion, our decentralized NFT card game utilizes blockchain technology to empower players with true ownership, scarcity, and interoperability of in-game assets. By embracing NFTs and decentralized governance, we revolutionize the gaming industry, offering players a more immersive, equitable, and player-driven gaming experience.
 
+# SCREENSHOTS
+![image](https://github.com/Gokula9965/NFT_Card_Game/assets/86424600/d0b61161-3a2e-439b-8149-67d4776e09f4)
 
 
